@@ -73,6 +73,7 @@ data/
 lib/
   recommendation.ts  # Functions to compute leave time + recommendation
   timeline.ts        # Helpers for building/rebuilding the trip timeline
+```
 
 
 This prototype uses only **mocked data**:
